@@ -7,7 +7,7 @@ homepage: https://github.com/andry-brill/a-compact-format
 issue_tracker: https://github.com/andry-brill/a-compact-format/issues
 
 screenshots:
-  - description: 'any-timeago examples'
+  - description: 'any-compact-format examples'
     path: example/web/screenshot.png
 
 topics:

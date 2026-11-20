@@ -1,7 +1,22 @@
 name: any_compact_format
 description: Compact number formatting for Flutter with exact decimal scaling, customizable locales, scientific notation, file sizes, and metric units.
 version: 1.0.0
+
 repository: https://github.com/andry-brill/a-compact-format
+homepage: https://github.com/andry-brill/a-compact-format
+issue_tracker: https://github.com/andry-brill/a-compact-format/issues
+
+screenshots:
+  - description: 'any-timeago examples'
+    path: example/web/screenshot.png
+
+topics:
+  - compact
+  - formatting
+  - number
+  - units
+  - localization
+
 environment:
   sdk: '>=3.13.7 <4.0.0'
   flutter: '>=3.47.9'
